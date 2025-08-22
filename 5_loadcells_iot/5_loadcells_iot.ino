@@ -1,3 +1,5 @@
+//  read this ! : this code isn't work you need to create your own get_units_kg function
+
 #include "HX711.h"
 #include <WiFi.h>
 #include <HTTPClient.h>
